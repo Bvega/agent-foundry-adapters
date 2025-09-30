@@ -1,0 +1,1 @@
+def call_gemini(prompt: str, model: str | None = None) -> str:\n    return f'(stub) Gemini output for: {prompt[:120]}'\n

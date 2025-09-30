@@ -1,0 +1,1 @@
+def call_openai(prompt: str, model: str | None = None) -> str:\n    return f'(stub) OpenAI output for: {prompt[:120]}'\n

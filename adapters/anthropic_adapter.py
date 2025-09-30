@@ -1,0 +1,1 @@
+def call_anthropic(prompt: str, model: str | None = None) -> str:\n    return f'(stub) Anthropic output for: {prompt[:120]}'\n
